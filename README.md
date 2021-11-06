@@ -13,6 +13,8 @@ The goal of this project was to refactor a website to use react REDUX.
 Users can search through a selection of items. After users log in, they can add multiple items to their cart. Site supports Stripe.
 
 ## Screenshots
-![Screenshot1](https://github.com/Copernichris/Book_Search_Refactor/blob/main/SS/ss1.png)
-![Screenshot2](https://github.com/Copernichris/Book_Search_Refactor/blob/main/SS/ss2.png)
+![Screenshot1](https://github.com/Copernichris/StoreRedux/blob/main/ss/ss1.png)
+![Screenshot1](https://github.com/Copernichris/StoreRedux/blob/main/ss/ss2.png)
+![Screenshot1](https://github.com/Copernichris/StoreRedux/blob/main/ss/ss3.png)
+![Screenshot1](https://github.com/Copernichris/StoreRedux/blob/main/ss/ss4.png)
 
